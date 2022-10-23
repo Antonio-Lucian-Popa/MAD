@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666510674 source:c:\users\anton\documents\metode avansate de programare\workspace\primaaplicatie\main.cpp
+	<iostream>
+	<math.h>
+
