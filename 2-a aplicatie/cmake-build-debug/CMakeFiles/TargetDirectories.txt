@@ -1,0 +1,3 @@
+C:/Users/anton/CLionProjects/primaAplicatie/cmake-build-debug/CMakeFiles/primaAplicatie.dir
+C:/Users/anton/CLionProjects/primaAplicatie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anton/CLionProjects/primaAplicatie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
